@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a306f2bf0c17d8ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "36f799bcc80530c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55c923d8ec4a3994",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c1545b71d05f820",
+    "type": "split",
+    "children": [
+      {
+        "id": "3927cd179d5b07e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5460a7c9a852c8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d5ecaaaad8951b83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "05d55fbfb043791e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75d1110284bd9c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "6811563e598ba522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f46c9a23899d2d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "라이브러리/widget 추천.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "widget 추천의 백링크"
+            }
+          },
+          {
+            "id": "4fc3b4cb5aacbc81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "라이브러리/widget 추천.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "widget 추천의 나가는 링크"
+            }
+          },
+          {
+            "id": "e5cad3f679f28d3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee20eb03656965fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "라이브러리/widget 추천.md"
+              },
+              "icon": "lucide-list",
+              "title": "widget 추천 개요"
+            }
+          },
+          {
+            "id": "dd2e0fa3d89c1e44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "55c923d8ec4a3994",
+  "lastOpenFiles": [
+    "라이브러리/api통신시 사용할 라이브러리.md",
+    "무제 파일.canvas",
+    "2024-11-13.md",
+    "팁/스크롤 시 앱바 색상이 변경되는 현상.md",
+    "라이브러리/widget 추천.md",
+    "라이브러리/flutter hook.md",
+    "팁/애니매이션 효과 높이는 법.md",
+    "Welcome.md",
+    "라이브러리",
+    "팁"
+  ]
+}
