@@ -11,10 +11,14 @@
             "id": "55c923d8ec4a3994",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "라이브러리/플러터 가족 트리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "플러터 가족 트리"
             }
           }
         ]
@@ -169,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55c923d8ec4a3994",
+  "active": "d5460a7c9a852c8b",
   "lastOpenFiles": [
+    "라이브러리/플러터 가족 트리.md",
+    "무제 파일.md",
     "라이브러리/api통신시 사용할 라이브러리.md",
     "무제 파일.canvas",
     "2024-11-13.md",
