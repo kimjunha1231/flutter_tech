@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "998e8bda2482d59c",
+        "id": "a9c111e4149ba5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "eedb804cf65a97ff",
+            "id": "5382e8ef1bc56580",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Titosidian/✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/동기 및 비동.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "동기 및 비동"
+              "title": "새 탭"
             }
           }
         ]
@@ -162,10 +158,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eedb804cf65a97ff",
+  "active": "5382e8ef1bc56580",
   "lastOpenFiles": [
-    "README.md",
+    "Titosidian/✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
     "Titosidian/✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Widget 추천.md",
+    "Titosidian/✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/동기 및 비동.md",
+    "README.md",
     "flutter_tech/라이브러리/widget 추천.md",
     "flutter_tech/라이브러리/무제 파일.md",
     "Titosidian/✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Flutter Hooks.md",
@@ -175,7 +173,6 @@
     "flutter_tech/라이브러리/flutter hook.md",
     "flutter_tech/라이브러리",
     "flutter_tech/무제 폴더",
-    "Titosidian/✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
     "flutter_tech/팁/api통신시 사용할 라이브러리.md",
     "flutter_tech/api통신시 사용할 라이브러리.md",
     "flutter_tech/api통신시 사용할 라이브럴.md",
@@ -191,7 +188,6 @@
     "Titosidian/✏️ Daily Scrum/sprint 9/daily scrum 7.27.md",
     "Titosidian/✏️ Daily Scrum/sprint 5/daily scrum 7.3.md",
     "Titosidian/✏️ Daily Scrum/sprint 5/daily scrum 7.1.md",
-    "Titosidian/✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/동기 및 비동.md",
     "Titosidian/✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Adaptive Design 공부.md",
     "Titosidian/✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Accessibility & Animation Widgets.md",
     "Titosidian/무제 파일.canvas",
