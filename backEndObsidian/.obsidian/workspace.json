@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e19d017ee9f6f01f",
+        "id": "b5dc4726c6fa903b",
         "type": "tabs",
         "children": [
           {
-            "id": "e957f2dc6e795b21",
+            "id": "b8b2f3ee9ea4d345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "새 탭"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "README 개요"
+              "title": "개요"
             }
           },
           {
@@ -173,10 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e957f2dc6e795b21",
+  "active": "b8b2f3ee9ea4d345",
   "lastOpenFiles": [
-    "시작.md",
     "README.md",
+    "시작.md",
     "무제 파일.canvas",
     "Welcome.md"
   ]
