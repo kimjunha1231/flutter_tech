@@ -27,17 +27,14 @@
             "id": "e957f2dc6e795b21",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "시작.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "무제 파일"
+              "icon": "lucide-file",
+              "title": "시작"
             }
           }
         ]
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "시작의 백링크"
             }
           },
           {
@@ -131,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "시작의 나가는 링크"
             }
           },
           {
@@ -158,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "시작.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "시작 개요"
             }
           },
           {
@@ -192,11 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e957f2dc6e795b21",
+  "active": "7475dbe505da98a4",
   "lastOpenFiles": [
     "README.md",
-    "시작.md",
     "무제 파일.canvas",
+    "시작.md",
     "Welcome.md"
   ]
 }
