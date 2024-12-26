@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd715a7beef0355",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9177b2e889ff0b0f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          }
-        ]
-      },
-      {
         "id": "e19d017ee9f6f01f",
         "type": "tabs",
         "children": [
@@ -29,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시작.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "시작"
+              "title": "README"
             }
           }
         ]
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시작.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "시작의 백링크"
+              "title": "README의 백링크"
             }
           },
           {
@@ -128,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시작.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "시작의 나가는 링크"
+              "title": "README의 나가는 링크"
             }
           },
           {
@@ -155,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시작.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "시작 개요"
+              "title": "README 개요"
             }
           },
           {
@@ -189,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7475dbe505da98a4",
+  "active": "e957f2dc6e795b21",
   "lastOpenFiles": [
+    "시작.md",
     "README.md",
     "무제 파일.canvas",
-    "시작.md",
     "Welcome.md"
   ]
 }
